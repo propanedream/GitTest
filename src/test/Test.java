@@ -7,5 +7,6 @@ public class Test {
         System.out.println("skdjfklsdjflksjdflksjdlkfj");
         System.out.println("ksljdflklljasldjasd");
         System.out.println("Seb laver også prints!!!");
+        System.out.println("HoeJOe in the house");
     }
 }
