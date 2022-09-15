@@ -9,6 +9,5 @@ public class Test {
         System.out.println("Seb laver også prints!!!");
         System.out.println("HoeJOe in the house");
         System.out.println("Hej HoeJoe!!!");
-        System.out.println("Back again..");
     }
 }
