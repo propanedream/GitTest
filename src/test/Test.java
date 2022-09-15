@@ -10,5 +10,7 @@ public class Test {
         System.out.println("HoeJOe in the house");
         System.out.println("Hej HoeJoe!!!");
 
+        Person p = new Person("HoeJoe", 27);
+
     }
 }
