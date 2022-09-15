@@ -12,5 +12,9 @@ public class Test {
 
         Person p = new Person("HoeJoe", 27);
 
+        Person p1 = new Person("Seb", 29);
+        Person p2 = new Person("Alex", 18);
+
+
     }
 }
